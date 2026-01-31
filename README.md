@@ -3,7 +3,7 @@
 I'm an **IT student** at **HTL Hollabrunn** in Austria 🇦🇹. Currently, I'm diving into the world of backend development to build powerful and scalable web applications.
 
 ### 🚀 What I'm up to:
-🎓 **Learning:** I'm currently focusing on **Node.js** to master server-side programming.<br>- 💡 **Goal:** Becoming a full-stack developer with a strong focus on backend logic.<br>- 🌱 **Always exploring:** New ways to optimize my skills and improve my coding workflow.
+-🎓 **Learning:** I'm currently focusing on **Node.js** to master server-side programming.<br>- 💡 **Goal:** Becoming a full-stack developer with a strong focus on backend logic.<br>- 🌱 **Always exploring:** New ways to optimize my skills and improve my coding workflow.
 
 
 ## 🌐 Socials:
